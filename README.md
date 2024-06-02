@@ -44,6 +44,6 @@ Real-Time Data: Ensures that decision-makers have access to the most current dat
 ![University Dashboard](https://github.com/Sibasankar2382/Comprehensive-University-Analytics/blob/main/University_Dashboard1.PNG)
 ![University Dashboard 2](https://github.com/Sibasankar2382/Comprehensive-University-Analytics/blob/main/University_Dashboard2.PNG)
 ## Conclusion
-The Comprehensive University Analytics project demonstrates the power of data visualization and analysis in the context of higher education. By leveraging the capabilities of Power BI, we have created a dynamic and interactive dashboard that provides university administrators with critical insights into various aspects of university operations.
+The Comprehensive University Analytics project demonstrates the power of data visualization and analysis in the context of higher education. By leveraging the capabilities of Power BI, we have created a dynamic and interactive dashboard that provides university administrators with critical insights into various aspects of university operations.THANK YOU!
 
 
