@@ -40,4 +40,7 @@ Real-Time Data: Ensures that decision-makers have access to the most current dat
 - Connected Power BI to the MySQL database and imported the relevant datasets for analysis.
 ### 5. Dashboard Creation
 - Designed and developed interactive dashboards within Power BI to visualize key insights derived from the cleaned dataset. The dashboards provide intuitive representations of the Educational analysts who require detailed  reports.
+## Dashboard
+![University Dashboard](https://github.com/Sibasankar2382/Comprehensive-University-Analytics/blob/main/University_Dashboard1.PNG)
+
 
