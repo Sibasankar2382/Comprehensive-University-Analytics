@@ -29,7 +29,8 @@ Real-Time Data: Ensures that decision-makers have access to the most current dat
 ### 2. Schema Creation in SQL
 
 - Designed and implemented a suitable database schema using SQL to organize and structure the acquired data efficiently.
-## Schema 
+## Schema Design
+![University Schema](https://github.com/Sibasankar2382/Comprehensive-University-Analytics/blob/main/University_schema.PNG)
 
 ### 3. Data Upload to MySQL
 
