@@ -22,4 +22,21 @@ Comprehensive View: Offers a holistic view of the university’s operations, int
 Interactive Analysis: Utilizes Power BI’s interactive features to allow users to explore data at various levels of granularity.
 Customizable Reports: Provides the flexibility to create custom reports tailored to specific needs and audiences.
 Real-Time Data: Ensures that decision-makers have access to the most current data, enabling timely and effective responses to emerging issues.
+### 1. Data Acquisition
+
+- Utilized Faker library to Create fake datasets relevant to the analysis objectives.
+
+### 2. Schema Creation in SQL
+
+- Designed and implemented a suitable database schema using SQL to organize and structure the acquired data efficiently.
+## Schema 
+
+### 3. Data Upload to MySQL
+
+- Uploaded the downloaded University data into a MySQL database, ensuring data integrity and consistency.
+- ### 4. Importing MySQL Data into Power BI
+
+- Connected Power BI to the MySQL database and imported the relevant datasets for analysis.
+### 5. Dashboard Creation
+- Designed and developed interactive dashboards within Power BI to visualize key insights derived from the cleaned dataset. The dashboards provide intuitive representations of the Educational analysts who require detailed  reports.
 
